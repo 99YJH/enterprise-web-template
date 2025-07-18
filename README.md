@@ -151,8 +151,8 @@ npm run dev
 - **H2 Console**: http://localhost:8080/api/h2-console (H2 사용시)
 
 ### 5. 초기 로그인
-- **이메일**: `master@enterprise.com`
-- **비밀번호**: `MasterPassword123!`
+- **이메일**: `admin@admin.com`
+- **비밀번호**: `Admin123!`
 
 ## 📁 프로젝트 구조
 
