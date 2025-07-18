@@ -1,0 +1,60 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+
+# Spring Boot
+application-*.properties
+application-*.yml
+!application.yml
+!application.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Upload directories
+uploads/
+profile-images/
+temp/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.cache/
+tmp/
+*.tmp
+
+# Testing
+coverage/
+test-results/
+.nyc_output/
